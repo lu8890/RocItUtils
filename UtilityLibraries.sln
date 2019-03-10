@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibraries", "UtilityLibraries\UtilityLibraries.csproj", "{82220F01-CC80-494C-A48E-A39CE195128B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibrariesTest", "UtilityLibrariesTest\UtilityLibrariesTest.csproj", "{5F8AC6C6-3776-4100-B094-474B9E3703A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82220F01-CC80-494C-A48E-A39CE195128B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82220F01-CC80-494C-A48E-A39CE195128B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82220F01-CC80-494C-A48E-A39CE195128B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82220F01-CC80-494C-A48E-A39CE195128B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8AC6C6-3776-4100-B094-474B9E3703A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8AC6C6-3776-4100-B094-474B9E3703A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8AC6C6-3776-4100-B094-474B9E3703A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8AC6C6-3776-4100-B094-474B9E3703A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236E2F2A-5FFF-4073-A19C-1B4A71B5AEBC}
+	EndGlobalSection
+EndGlobal
