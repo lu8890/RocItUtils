@@ -1,7 +1,7 @@
-﻿using lu8890.UtilityLibraries;
+﻿using lu8890.RocIt.UtilityLibraries;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace lu8890.UtilityLibrariesTest
+namespace lu8890.RocIt.UtilityLibrariesTest
 {
     [TestClass]
     public class HttpRequestContentTypesTest

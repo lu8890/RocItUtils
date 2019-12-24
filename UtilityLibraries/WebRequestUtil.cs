@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using Newtonsoft.Json.Linq;
 
-namespace lu8890.UtilityLibraries
+namespace lu8890.RocIt.UtilityLibraries
 {
     public enum HttpApiMethods
     {

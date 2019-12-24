@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace lu8890.UtilityLibraries
+namespace lu8890.RocIt.UtilityLibraries
 {
     public static class HttpRequestContentTypes
     {

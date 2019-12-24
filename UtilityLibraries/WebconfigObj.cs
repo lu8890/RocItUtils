@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace lu8890.UtilityLibraries
+namespace lu8890.RocIt.UtilityLibraries
 {
     public class WebconfigObj
     {
