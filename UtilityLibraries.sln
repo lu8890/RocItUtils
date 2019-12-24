@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibraries", "UtilityLibraries\UtilityLibraries.csproj", "{82220F01-CC80-494C-A48E-A39CE195128B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocItUtils", "UtilityLibraries\RocItUtils.csproj", "{82220F01-CC80-494C-A48E-A39CE195128B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibrariesTest", "UtilityLibrariesTest\UtilityLibrariesTest.csproj", "{5F8AC6C6-3776-4100-B094-474B9E3703A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocItUtilsTest", "UtilityLibrariesTest\RocItUtilsTest.csproj", "{5F8AC6C6-3776-4100-B094-474B9E3703A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
